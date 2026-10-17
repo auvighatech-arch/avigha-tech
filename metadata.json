@@ -1,0 +1,8 @@
+{
+  "name": "AUVIGHA Tech - منصة التواصل والروابط الذكية",
+  "description": "منصة تواصل متكاملة لمتجر AUVIGHA Tech تجمع واتساب، تيليجرام، فيسبوك، إنستغرام مع كود QR فوري وتحديث الروابط في الوقت الفعلي.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
